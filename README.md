@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**LeoMobileDeveloper/LeoMobileDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 I'm an iOS developer
+- 💼 Currently working at [ByteDance](https://www.bytedance.com/)
+- 🌱 Focus on improve basic user experience of Douyin and TikTok iOS App
+- 🌐 Stackoverflow active contributor([top 2% overall, top 20 in china](https://stackoverflow.com/users/3940672/leo))
+- ✍🏻 Write blogs at [CSDN](https://blog.csdn.net/hello_hwc)(chinese website) with more than 1.5 million PV
 
-Here are some ideas to get you started:
+### Get in touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you are interested of working at Bytedance, fell free to contact me
+
+- Email：huangwenchen.leo@bytedance.com
+- Wechat：jacgjamdw
